@@ -1,5 +1,5 @@
 # PyGame
-Para ejecutar lo qeu voy avanzando se debe ir al terminal
+Para ejecutar lo que voy avanzando se debe ir al terminal
 que debe decir:
 
 PS C:\PythonGame\ladrillos>
